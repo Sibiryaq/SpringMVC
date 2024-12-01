@@ -10,17 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80d7223b-8886-40c2-9ad6-abcb367326bd" name="Changes" comment="Spring MVC (Java Code configuration)+ @RequestParam">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/controllers/PeopleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/controllers/FirstController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/controllers/SecondController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/controllers/PeopleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/model/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732952403728</updated>
       <workItem from="1732952404744" duration="704000" />
-      <workItem from="1732953155133" duration="22305000" />
+      <workItem from="1732953155133" duration="27282000" />
     </task>
     <task id="LOCAL-00001" summary="Spring MVC (xml configuration)">
       <option name="closed" value="true" />
@@ -199,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733030014917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Spring MVC (Java Code configuration)+ @RequestParam">
+      <option name="closed" value="true" />
+      <created>1733051774197</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733051774197</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
